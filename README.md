@@ -1,4 +1,4 @@
-# Dace Tomsone - galvenais virsraksts
+# Markuss Stebļecovs - galvenais virsraksts
 ## Otrais virsraksts
 - Saraksts 1
 - Saraksts 2
